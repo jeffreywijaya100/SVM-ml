@@ -1,4 +1,4 @@
-1. ![image](https://github.com/user-attachments/assets/5373f2d6-6b13-4ce2-8f14-7c3daf9d77ce)
+![image](https://github.com/user-attachments/assets/5373f2d6-6b13-4ce2-8f14-7c3daf9d77ce)
 
 2. Super Vector Machine(SVM) is a set of supervised learning methods used for classification, regression, and other detection.
 
